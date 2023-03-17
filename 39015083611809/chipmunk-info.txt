@@ -1,0 +1,6 @@
+External-Identifier: 39015083611809
+Chipmunk-Content-Type: audio
+Bag-ID: 9ca9fe98-8b89-4b44-9061-c066dcbedf1d
+Metadata-URL: https://mirlyn.lib.umich.edu/Record/004366562.xml
+Metadata-Type: MARC
+Metadata-Tagfile: marc.xml

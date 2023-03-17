@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+ <record>
+  <leader>00000npcaa2200541 a 4500</leader>
+  <controlfield tag="001">004366562</controlfield>
+  <controlfield tag="003">MiU</controlfield>
+  <controlfield tag="005">20180510173551.0</controlfield>
+  <controlfield tag="008">040322i19772001miu     |           eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+   <subfield code="a">(OCoLC)ocm68944794</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+   <subfield code="a">MiU</subfield>
+   <subfield code="c">MiU</subfield>
+   <subfield code="e">appm</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+   <subfield code="a">National Transgender Library &amp; Archive (U.S.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+   <subfield code="a">National Transgender Library &amp; Archive collection,</subfield>
+   <subfield code="f">1977-2001,</subfield>
+   <subfield code="g">(bulk 1990-1999).</subfield>
+  </datafield>
+  <datafield tag="246" ind1="0" ind2="3">
+   <subfield code="a">NTL&amp;A collection.</subfield>
+  </datafield>
+  <datafield tag="246" ind1="0" ind2="3">
+   <subfield code="a">NTLA archive.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+   <subfield code="a">28.5</subfield>
+   <subfield code="f">linear ft.</subfield>
+   <subfield code="a">(20</subfield>
+   <subfield code="f">boxes)</subfield>
+  </datafield>
+  <datafield tag="351" ind1=" " ind2=" ">
+   <subfield code="a">Collection is organized into the following series: I. American Educational Gender Information Service, II. Human Outreach and Achievement Institute, III. Outreach Institute for Gender Studies, IV. Atlanta Pride Committee, V. International Foundation for Gender Education, VI. Conferences,VII. Miscellaneous Publications, VIII. Shuttle Harry Benjamin, and IX. Photographs.</subfield>
+  </datafield>
+  <datafield tag="351" ind1=" " ind2=" ">
+   <subfield code="a">Correspondence is organized into the following series: I. Correspondence, Individuals A-I (Closed), II. Correspondence, Individuals J-Z(Closed), III. Correspondence, 1989-July 1995, IV. Correspondence, August 1995-December 1998, and V. Miscellaneous.</subfield>
+  </datafield>
+  <datafield tag="545" ind1=" " ind2=" ">
+   <subfield code="a">Created by Dallas Denny, psychologist, author, and founder of theAmerican Educational Gender Information Service, Inc. (AEGIS), the NTL&amp;A is one of the largest collections of transgender research materials in the world.</subfield>
+  </datafield>
+  <datafield tag="545" ind1=" " ind2=" ">
+   <subfield code="a">AEGIS provided self-published and other materials to transgendered individuals, families of transgendered people, allies, doctors with transgendered clients, and others seeking information, and published Chrysalis: The Journal of Transgressive Gender Identities as well as the AEGIS membership newsletter, Transgender Treatment Bulletin.</subfield>
+  </datafield>
+  <datafield tag="545" ind1=" " ind2=" ">
+   <subfield code="a">In April 1998, AEGIS ceased operations and in January 2000 re-formed as Gender Education &amp; Advocacy (GEA). The new organization educates people about and advocates for transgender and transsexual issues and maintains the functions and goals of the original organization.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+   <subfield code="a">Collection includes correspondence, memorabilia, publications, surveys, photographs, artifacts, and organizational papers, including by-laws and conference materials, and video and audio tapes.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+   <subfield code="a">Serials and monographs have been removed from the collection and cataloged separately.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+   <subfield code="a">Denny, Dallas,</subfield>
+   <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+   <subfield code="a">American Educational Gender Information Service.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+   <subfield code="a">Human Outreach and Achievement Institute.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+   <subfield code="a">International Foundation for Gender Education.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+   <subfield code="a">Outreach Institute of Gender Studies.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+   <subfield code="a">Shuttle Harry Benjamin (Organization)</subfield>
+  </datafield>
+  <datafield tag="611" ind1="2" ind2="0">
+   <subfield code="a">Fantasia Fair.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+   <subfield code="a">Gay liberation movement.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+   <subfield code="a">Gender identity</subfield>
+   <subfield code="x">Psychological aspects.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+   <subfield code="a">Sexual orientation</subfield>
+   <subfield code="x">Psychological aspects.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+   <subfield code="a">Transgender people.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+   <subfield code="a">Transsexualism.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+   <subfield code="a">Transsexuals.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+   <subfield code="a">Cross-dressers.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+   <subfield code="a">Cross-dressing.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+   <subfield code="a">Administrative records.</subfield>
+   <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+   <subfield code="a">Audio cassettes.</subfield>
+   <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+   <subfield code="a">Correspondence.</subfield>
+   <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+   <subfield code="a">Memorabilia.</subfield>
+   <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+   <subfield code="a">Photographs.</subfield>
+   <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+   <subfield code="a">Videotapes.</subfield>
+   <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+   <subfield code="a">Denny, Dallas,</subfield>
+   <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+   <subfield code="a">American Educational Gender Information Service.</subfield>
+  </datafield>
+  <datafield tag="852" ind1="8" ind2=" ">
+   <subfield code="a">MiU</subfield>
+   <subfield code="b">SPEC</subfield>
+   <subfield code="c">AMSNB</subfield>
+   <subfield code="h">Labadie - NTLA</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+   <subfield code="a">MX</subfield>
+   <subfield code="b">Mixed Material</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+   <subfield code="a">MV</subfield>
+   <subfield code="b">Archive</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+   <subfield code="a">MW</subfield>
+   <subfield code="b">Manuscript</subfield>
+  </datafield>
+  <datafield tag="971" ind1=" " ind2=" ">
+   <subfield code="a">MiU</subfield>
+  </datafield>
+  <datafield tag="972" ind1=" " ind2=" ">
+   <subfield code="c">20040625</subfield>
+  </datafield>
+  <datafield tag="974" ind1=" " ind2=" ">
+   <subfield code="a">B1826460</subfield>
+   <subfield code="b">SPEC</subfield>
+   <subfield code="c">AMSNB</subfield>
+   <subfield code="f">08</subfield>
+  </datafield>
+  <datafield tag="997" ind1=" " ind2=" ">
+   <subfield code="a">MARS</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+   <subfield code="a">SCL/kd;2004-03-23</subfield>
+  </datafield>
+ </record>
+</collection>
