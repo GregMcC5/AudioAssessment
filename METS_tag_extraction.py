@@ -29,8 +29,8 @@ for package in os.listdir():
                 print("len of ph:", len(ph_pe))
                 print(ph_pe.name)
                 print(ph_pe.descendants)
-                for item in ph_pe.descendants:
-                    if item.name is not None and item.is_empty_element is not True:
+                for item in ph_pe.find_all(True):
+                    # if item.name is not None and item.is_empty_element is not True:
                         print('/'.join([parent.name for parent in item.find_parents()][::-1]) + f"/{item.name}")
                         ph_tag_list.append('/'.join([parent.name for parent in item.find_parents()][::-1]) + f"/{item.name}")
 
@@ -61,8 +61,8 @@ for package in os.listdir():
                 # -audioObject
                 ao_tag_list = []
                 ao = soup.find("aes:audioObject")
-                for item in ao.descendants:
-                    if item.name is not None and item.is_empty_element is not True:
+                for item in ao.find_all(True):
+                    # if item.name is not None and item.is_empty_element is not True:
                         print('/'.join([parent.name for parent in item.find_parents()][::-1]) + f"/{item.name}")
                         ao_tag_list.append('/'.join([parent.name for parent in item.find_parents()][::-1]) + f"/{item.name}")
 

@@ -2,6 +2,7 @@ tag,package count,total count,min,max
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/format,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/audioDataEncoding,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/byteOrder,65,1.0,1,1
+[document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/use,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/primaryIdentifier,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/checksum,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/checksum/checksumValue,65,1.0,1,1
@@ -16,6 +17,7 @@ tag,package count,total count,min,max
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/startTime/frames,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/startTime/samples,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/startTime/samples/numberOfSamples,65,1.0,1,1
+[document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/startTime/filmFraming,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/duration,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/duration/hours,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/duration/minutes,65,1.0,1,1
@@ -23,6 +25,7 @@ tag,package count,total count,min,max
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/duration/frames,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/duration/samples,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/duration/samples/numberOfSamples,65,1.0,1,1
+[document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/timeline/duration/filmFraming,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/startTime,65,1.0,1,1
@@ -32,6 +35,7 @@ tag,package count,total count,min,max
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/startTime/frames,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/startTime/samples,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/startTime/samples/numberOfSamples,65,1.0,1,1
+[document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/startTime/filmFraming,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/duration,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/duration/hours,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/duration/minutes,65,1.0,1,1
@@ -39,8 +43,10 @@ tag,package count,total count,min,max
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/duration/frames,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/duration/samples,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/duration/samples/numberOfSamples,65,1.0,1,1
+[document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/timeRange/duration/filmFraming,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/numChannels,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/stream,65,1.8,1,2
+[document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/face/region/stream/channelAssignment,65,1.8,1,2
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/formatList,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/formatList/formatRegion,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/formatList/formatRegion/bitDepth,65,1.0,1,1
