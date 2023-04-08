@@ -3,6 +3,7 @@ import json
 import os
 
 #--------------------------------------------
+#use with csvs
 
 def read_csv(filepath, encoding='utf-8', newline='', delimiter=','):
     with open(filepath, 'r', encoding=encoding, newline=newline) as file_obj:
@@ -10,7 +11,6 @@ def read_csv(filepath, encoding='utf-8', newline='', delimiter=','):
         reader = csv.reader(file_obj, delimiter=delimiter)
         for row in reader:
             data.append(row)
-
         return data
 
 def write_csv(filepath, data, headers=None, encoding='utf-8', newline=''):
@@ -38,16 +38,16 @@ def write_json(filepath, data, encoding='utf-8', ensure_ascii=False, indent=2):
 #use for any
 
 def read_file(filepath):
-  # Check the file extension to determine the file type
+  # check extension
   _, extension = os.path.splitext(filepath)
 
-  # Read the CSV file
+  # if CSV
   if extension == ".csv":
     with open(filepath, "r") as file:
       reader = csv.reader(file)
       data = [row for row in reader]
 
-  # Read the JSON file
+  # if JSON
   elif extension == ".json":
     with open(filepath, "r") as file:
       data = json.load(file)

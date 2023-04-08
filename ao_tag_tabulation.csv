@@ -1,4 +1,4 @@
-tag,package count,total count,min,max
+tag,package count,average occurrence per package,min,max
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/format,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/audioDataEncoding,65,1.0,1,1
 [document]/mets/amdSec/techMD/mdWrap/xmlData/audioObject/byteOrder,65,1.0,1,1

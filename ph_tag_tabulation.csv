@@ -1,4 +1,4 @@
-tag,package count,total count,min,max
+tag,package count,average occurences per package,min,max
 [document]/mets/amdSec/digiprovMD/mdWrap/xmlData/processHistory/processEvent,65,1.0,1,1
 [document]/mets/amdSec/digiprovMD/mdWrap/xmlData/processHistory/processEvent/operator,65,1.0,1,1
 [document]/mets/amdSec/digiprovMD/mdWrap/xmlData/processHistory/processEvent/operator/lastName,65,1.0,1,1

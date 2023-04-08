@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import os
 
 #--initialize aggregator--
-ph_tag_aggregator = [["tag", "package count", "total count", "min", "max"]]
-ao_tag_aggregator = [["tag", "package count", "total count", "min", "max"]]
+ph_tag_aggregator = [["tag", "package count", "average occurences per package", "min", "max"]]
+ao_tag_aggregator = [["tag", "package count", "average occurrence per package", "min", "max"]]
 
 #--navigate to external drive--
 print(os.getcwd())
