@@ -1,7 +1,7 @@
 # SI 581 Final Project (Winter 2023)
 
 Gregory McCollum, Shelby Jeffrey, Emma Heck
-Last Updated: April 8th, 2023
+Last Updated: April 18th, 2023
 
 ## Introduction
 This repository contains the scripts and resulting files associated with the three authors final project for the SI581 course from the University of Michigan School of Information's SI581 course from the 2023 Winter semester.
@@ -21,4 +21,4 @@ Our intention is to enable the DPU to have better control over their metadata an
 - **"ph_tag_tabulation.csv"** - This file contains the tabulations for all tags from the AES-X098-c scheme. It provides the xpath for each scheme tag, the number of packages the tag appears in, an average number of times the tag appears per package, the mnimum number of times it appears in a package and the maxmimum number of times is appear in a packages.
 
 ## Contact
-For more information, please contact Gregory McCollum at gregmcc@umich.edu. More details on this project are available in our final report.
+For more information, please contact Gregory McCollum at gregmcc@umich.edu. More details on this project are available in our [final report](https://docs.google.com/document/d/1cf44CvnL2nrKeT4PzWD0244fJ9CJVWFS0VhZYLT3f4s/edit?usp=sharing).
